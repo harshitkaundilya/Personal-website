@@ -106,6 +106,7 @@ background-color: #66bfbf;
 }
 .contact-me {
   margin: 100px auto 100px auto;
+  font-size: 100%;
 }
 .footer-link {
   display: inline-block;
